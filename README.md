@@ -3,6 +3,7 @@
 This repo contains my implementations of algorithms on  C/C++/Python.
 My implementations may not be effective, but in future I'll try to make them more effective in terms of time/memory.
 
+<!--
 <h2> Contents: <\h2>
 
 <li> <a href = ""> Foundations
@@ -19,3 +20,4 @@ My implementations may not be effective, but in future I'll try to make them mor
 <li> <a href = ""> Advanced data structures
 <li> <a href = ""> Graph Algortihms
 <li> <a href = ""> Selected topics
+-->
