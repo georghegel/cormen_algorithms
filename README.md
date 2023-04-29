@@ -5,12 +5,12 @@ My implementations may not be effective, but in future I'll try to make them mor
 
 Contents:
     <ul>
-      <li> <\li> 
-      <li> <\li>
-      <li> <\li>
-      <li> <\li>
-      <li> <\li>
-      <li> <\li>
-      <li> <\li>
-      <li> <\li>
+      <li>
+      <li>
+      <li>
+      <li>
+      <li>
+      <li>
+      <li>
+      <li>
     </ul>
