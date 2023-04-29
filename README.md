@@ -5,13 +5,13 @@ My implementations may not be effective, but in future I'll try to make them mor
 
 <h2> Contents: <\h2>
 
-    <ul>
-      <li>
-      <li>
-      <li>
-      <li>
-      <li>
-      <li>
-      <li>
-      <li>
-    </ul>
+<ul>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+<\ul>
