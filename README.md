@@ -5,10 +5,17 @@ My implementations may not be effective, but in future I'll try to make them mor
 
 <h2> Contents: <\h2>
 
-<li> <a href = ""> Introduction
-<li> <a href = ""> Sorting and order statistics
+<li> <a href = ""> Foundations
+<pre>
+  <li> The Role of ALgorithms in Computing 
+  <li> Getting Started
+  <li> Growth Functions
+  <li> Divide and Conquer
+  <li> Probabilistic analysis and randomized algorithms
+<\pre>
+<li> <a href = ""> Sorting and Order Statistics
 <li> <a href = ""> Data Structures
-<li> <a href = ""> Advanced methods of development and analysis
+<li> <a href = ""> Advanced Desgin and Analysis Techniques
 <li> <a href = ""> Advanced data structures
 <li> <a href = ""> Graph Algortihms
 <li> <a href = ""> Selected topics
